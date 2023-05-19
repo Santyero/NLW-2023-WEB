@@ -1,7 +1,6 @@
 import { User } from 'lucide-react'
 import nlwLogo from '../assets/nlw-space-logo.svg'
 import Image from 'next/image'
-import Button from '@/components/Button'
 
 export default function Home() {
   return (
